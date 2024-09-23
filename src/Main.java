@@ -47,7 +47,7 @@ public class Main {
 
 
         int num1 = 2;
-
+;
         int pariDispari = num % num1;
         System.out.println(pariDispari);
 
